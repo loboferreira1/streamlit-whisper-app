@@ -1,0 +1,7 @@
+Digite os comandos para reproduzir o gabarito/fullstack:
+
+1. pip install -r requirements.txt
+Obs.: o comando 1 (acima) você vai dar apenas uma vez
+
+2. streamlit run Home.py
+Obs.: o comando 2 (acima) você vai inserir sempre que quiser iniciar o GUI
